@@ -1,6 +1,6 @@
 # Welcome to OMED - Your Software Development Partner
 
-![OMED Logo](../logo.png)
+![OMED Logo](/profile/logo.png)
 
 ## About Us
 
